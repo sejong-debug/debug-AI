@@ -1,6 +1,6 @@
 # debug-AI
 
-# 3가지방법
+# 3가지 접근방법
 ## 1.Object Detection
 <kbd><img src = https://user-images.githubusercontent.com/80030558/162415573-240617e7-5bef-4a9c-aa70-721309a5c2a6.png></kbd>
 
