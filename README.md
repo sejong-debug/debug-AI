@@ -7,7 +7,9 @@
   **장점 :**
     <p> &nbsp; &nbsp; &nbsp; &nbsp; 질병의 위치정보를 제공할 수 있다. </p>
   **단점 :** 
+    <p> &nbsp; &nbsp; &nbsp; &nbsp; 질병 데이터셋의 경우 ground truth에서 bounding box를 정교하게 표시하는 것이 까다롭다. </p>
     <p> &nbsp; &nbsp; &nbsp; &nbsp; 가장 학습이 오래걸린다. </p>
+    
     
 ## 2.Classification
 <kbd><img src = https://user-images.githubusercontent.com/80030558/162415544-f5078a6e-6562-48c8-8fce-842c42000e9e.png></kbd>
