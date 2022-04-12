@@ -33,7 +33,8 @@
 <strong><p>2. 질병 검출 task에서 위치 정보는 다른 Object Detection task(Pedestrian Detection)에 비해 중요도가 높지 않을 수 있다</strong></p>
 <strong><p>3. 질병 검출 task에서는 한 이미지에서 같은 종류의 질병을 추가 식별하는 것(이미 한 이미지에서 A질병을 식별했다면 다른 위치에서도 A질병을 식별하는 것)의 중요도가 높지 않을 수 있다</strong></p>
 
-
+# 평가지표 관련
+[경진 대회의 평가지표](https://yongchan.tistory.com/3)
 # Multi-label Classification으로 진행하게 될 경우
 ### 평가 metric은?
 ### f1-score vs roc_auc_score
