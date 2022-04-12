@@ -39,6 +39,11 @@
 ### 평가 metric은?
 ### f1-score vs roc_auc_score
 ### data가 imbalance하다면 항상 f1-score를 사용해야한다.
+### -> 우리 데이터는 imbalance하다. f1-score 승리
 
+
+### f1-score vs MCC(Matthews Correlation Coefficient)
+[f1-score vs MCC(Matthews Correlation Coefficient)](https://towardsdatascience.com/matthews-correlation-coefficient-when-to-use-it-and-when-to-avoid-it-310b3c923f7e#:~:text=F1%20score%2C%20in%20this%20case,matter%20which%20class%20is%20positive.)
 ### MCC Metrics?
 ### [The advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6413-7)
+
