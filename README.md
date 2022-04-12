@@ -37,3 +37,4 @@
 # Multi-label Classification으로 진행하게 될 경우
 ### 평가 metric은?
 ### f1-score vs roc_auc_score
+### data가 imbalance하다면 항상 f1-score를 사용해야한다.
