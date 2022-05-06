@@ -9,6 +9,9 @@
   * Survey
   <span><br>&nbsp;&nbsp;&nbsp;&nbsp; </span>
   
+  * ★★★ Class Imbalance 해결 ★★★
+  <span><br>&nbsp;&nbsp;&nbsp;&nbsp; <b>Data Augmentation</b></span>
+  
   * Multi-label CNN
   <span><br>&nbsp;&nbsp;&nbsp;&nbsp; [Towards_Class-Imbalance_Aware_Multi-Label_Learning](https://www.ijcai.org/Proceedings/15/Papers/567.pdf)</span>
   <span><br>&nbsp;&nbsp;&nbsp;&nbsp; [Multilabel_Image_Classification_via_Feature_Label_Co-Projection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8985434)</span>
